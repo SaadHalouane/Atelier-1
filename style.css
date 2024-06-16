@@ -1,0 +1,81 @@
+.customers{
+    width: 500px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.rating1{
+    width: 500px;
+}
+.rating2{
+    position: absolute;
+    left: 40px;
+    width: 500px;
+}
+.rating3{
+position: absolute;
+left: 80px;
+    width: 500px;
+}
+.info{
+    display: flex;
+    height: 450px;
+}
+.rating{
+    position: relative;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.review1{
+    background-color: blue;
+    color: white;
+    height: 300px;
+    width: 400px;
+    margin-left: 100px;
+}
+.review2{
+    position: absolute;
+    left: 500px;
+    top: 15px;
+    background-color: purple;
+    color: white;
+    height: 300px;
+    width: 400px;
+    margin-left: 100px;
+}
+.review3{
+    position: absolute;
+    left: 1000px;
+    top: 30px;
+    background-color: red;
+    color: white;
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+}
+.man1{
+    width: 70px;
+    height: 70px;
+}
+.man2{
+    width: 70px;
+    height: 70px;
+}
+.woman{
+    width: 70px;
+    height: 70px;
+}
+.reviews{
+    position: relative;
+    display: flex;
+}
+.picname1{
+    display: flex;
+}
+.picname2{
+    display: flex;
+}
+.picname3{
+    display: flex;
+}
